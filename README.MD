@@ -40,3 +40,5 @@ https://github.com/tsconfig/bases
     ]
   }
 }
+
+docker compose up -d
