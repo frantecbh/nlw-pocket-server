@@ -42,3 +42,7 @@ https://github.com/tsconfig/bases
 }
 
 docker compose up -d
+
+npm i drizzle-orm
+npm i drizzle-kit -D
+npx drizzle-kit generate
