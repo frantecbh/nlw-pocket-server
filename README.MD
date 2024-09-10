@@ -46,3 +46,9 @@ docker compose up -d
 npm i drizzle-orm
 npm i drizzle-kit -D
 npx drizzle-kit generate
+
+npm i postgres
+
+npx drizzle-kit migrate
+npx drizzle-kit studio
+
